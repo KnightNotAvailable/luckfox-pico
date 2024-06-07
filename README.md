@@ -1,3 +1,5 @@
+# Repo forked from https://github.com/soyflourbread/luckfox-pico
+
 # luckfox-pico
 
 Linux systems for LuckFox Pico series, including
@@ -8,7 +10,7 @@ Currently only [Alpine Linux](https://alpinelinux.org/) is available.
 ## Downloads
 
 Check out
-[Github Actions Artifacts](https://github.com/soyflourbread/luckfox-pico/actions/workflows/main.yml)
+[Github Actions Artifacts](https://github.com/KnightNotAvailable/luckfox-pico/actions/workflows/main.yml)
 for latest Alpine Linux images.
 
 ## Flashing
