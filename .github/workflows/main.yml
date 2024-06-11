@@ -42,7 +42,7 @@ jobs:
           bison flex fakeroot cmake unzip gperf autoconf \
           device-tree-compiler libncurses5-dev pkg-config bc \
           python-is-python3 passwd openssl openssh-server \
-          openssh-client vim file cpio rsync"
+          openssh-client vim file cpio rsync libmpc-dev"
       - name: build system
         run: ./system.sh -f rootfs-alpine.tar.gz -d ${{ matrix.device }}
       - name: upload update.img
